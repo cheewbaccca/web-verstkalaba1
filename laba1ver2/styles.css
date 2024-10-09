@@ -1,0 +1,109 @@
+
+body {
+    margin: 15mm; 
+    
+    
+}
+h2 {
+    color:black;
+    font-size: 16pt;
+    font-family: Arial;
+    text-align:right;
+}
+h1 {
+    color: black; 
+    font-size: 20pt;
+    font-family: Arial;
+    text-align:center;
+}
+p {
+    font-size: 16px; 
+    color: black; 
+}
+.task1name {
+    font-family: 'Times New Roman';
+    color: black;
+    font-size: 14pt;
+    margin:0;
+    text-decoration: underline;
+    font-style: italic;
+ }
+.task1 {
+    font-family: 'Times New Roman';
+    color: black;
+    font-size: 12pt;
+    margin:0;
+    text-indent: 1cm;
+    
+ }
+
+ .task1answer {
+    font-family: 'Times New Roman';
+    color: black;
+    font-size: 10pt;
+    margin:0;
+    
+ }
+ .task2name {
+    font-family: 'Courier New';
+    color: black;
+    font-size: 14pt;
+    margin-top: 1cm;
+    margin-bottom:0;
+    text-decoration: underline;
+    font-style: italic;
+ }
+ .task2 {
+    font-family: 'Courier New';
+    color: black;
+    font-size: 10pt;
+    line-height: 2;
+    margin-top:1;
+ }
+ .task2answer{
+    font-family: "Courier New";
+    font-size: 9pt;
+    text-indent: 10mm;
+    margin-left: 70mm;
+    margin-right: 16mm;
+ }
+ .task3name {
+    font-family: 'Times New Roman';
+    font-size: 13pt;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    margin-top:5%;
+    margin-bottom:0;
+    text-align:center;
+ }
+ .task3 {
+    font-family: 'Times New Roman';
+    font-size: 12pt;
+    
+    margin-top:0;
+    text-align: center;
+    margin-left:3mm;
+    margin-right:14mm;
+ }
+ .task4name {
+    font-family: 'Times New Roman';
+    font-size: 17pt;
+    text-decoration: underline;
+    font-style: italic;
+    margin-bottom:0;
+    text-align:right;
+ }
+ .task4 {
+    font-family: 'Times New Roman';
+    font-size: 10pt;
+    margin-bottom:0;
+    text-align:right;
+    font-style:italic;
+ }
+ .task4answer {
+    font-family: 'Times New Roman';
+    font-size: 10pt;
+    font-weight:bold;
+    font-style:italic;
+ }

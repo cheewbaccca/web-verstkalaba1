@@ -1,0 +1,112 @@
+
+body {
+    margin: 15mm; 
+    
+    
+}
+h2 {
+    color:black;
+    font-size: 16pt;
+    font-family: Arial;
+    margin-left:12.7cm;
+}
+h1 {
+    color: black; 
+    font-size: 20pt;
+    font-family: Arial;
+    margin-left:7.2cm;
+}
+p {
+    font-size: 16px; 
+    color: black; 
+}
+.task1name {
+    font-family: 'Times New Roman';
+    color: black;
+    font-size: 14pt;
+    margin:0;
+    text-decoration: underline;
+    font-style: italic;
+ }
+.task1 {
+    font-family: 'Times New Roman';
+    color: black;
+    font-size: 12pt;
+    margin:0;
+    text-indent: 1cm;
+    
+ }
+
+ .task1answer {
+    font-family: 'Times New Roman';
+    color: black;
+    font-size: 10pt;
+    margin:0;
+    
+ }
+ .task2name {
+    font-family: 'Courier New';
+    color: black;
+    font-size: 14pt;
+    margin-top: 1cm;
+    margin-bottom:0;
+    text-decoration: underline;
+    font-style: italic;
+ }
+ .task2 {
+    font-family: 'Courier New';
+    color: black;
+    font-size: 10pt;
+    line-height: 2;
+    margin-top:1;
+ }
+ .task2answer{
+    font-family: "Courier New";
+    font-size: 9pt;
+    text-indent: 10mm;
+    margin-left: 70mm;
+    margin-right: 16mm;
+ }
+ .task3name {
+    font-family: 'Times New Roman';
+    font-size: 13pt;
+    margin-left:82.5mm;
+    text-decoration: underline;
+    font-weight: bold;
+    font-style: italic;
+    margin-top:5%;
+    margin-bottom:0;
+ }
+ .task3 {
+    font-family: 'Times New Roman';
+    font-size: 12pt;
+    
+    margin-top:0;
+    margin-left:2.1cm;
+    margin-right:30cm;
+ }
+ .task4name {
+    font-family: 'Times New Roman';
+    font-size: 17pt;
+    text-decoration: underline;
+    font-style: italic;
+    margin-bottom:0;
+    margin-left: 15cm;
+ }
+ .task4 {
+    font-family: 'Times New Roman';
+    font-size: 10pt;
+    margin-bottom:0;
+    margin-left: 2.5cm;
+    margin-right:29cm;
+    
+    font-style:italic;
+ }
+ .task4answer {
+    font-family: 'Times New Roman';
+    font-size: 10pt;
+    margin-bottom:0;
+    margin-right:29cm;
+    font-weight:bold;
+    font-style:italic;
+ }
